@@ -1,4 +1,4 @@
-# Configuring Experience Environment of PouchContainer Based on VirtualBox and Ubuntu16.04 
+# The Guide of Configuring Experience Environment of PouchContainer Based on VirtualBox and Ubuntu16.04 
 ## Download and installation preparation
 ### Download the virtual machine backup of the development environment
 - Please download the [ubuntuPouch.vdi](https://www.virtualbox.orgubuntuPouch.vdi). It is recommended to download this file in advance because it is relatively large (3.2G). 
